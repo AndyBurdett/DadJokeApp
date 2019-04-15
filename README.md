@@ -2,7 +2,7 @@
 Build an Dad Joke App in 1 hour
 
 #Topics
-* layouts
+* Layouts
 * RetroFit HTTP Client
 * Android Studio basics
 * Deployment and debugging
